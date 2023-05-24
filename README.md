@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
+
 - 🔭 I’m currently working on [Pick A Movie For Me](https://github.com/TejasK28/PickAMovieForMe)
 
 - 🌱 I’m currently learning **Agile and React**
