@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Agile and React**
 
-- 📫 How to reach me **tejaskandri28@gmail.com**
+- 📫 Contact me at: **tejaskandri28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
