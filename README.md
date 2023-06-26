@@ -2,7 +2,11 @@
 
 - 🔭 I’m currently working on **[Pick A Movie For Me](https://github.com/TejasK28/PickAMovieForMe)** and **[Monopoly](https://github.com/TejasK28/Monopoly)**
 
-- 🌱 I’m currently learning **Agile and React**
+- 🌱 I’m currently learning
+  - [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/tejask28)
+  - [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/tejask28)
+  - [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/tejask28)
+  - [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/tejask28)
 
 - 📫 Contact me at: **tejaskandri28@gmail.com**
 
@@ -28,8 +32,8 @@
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/tejask28)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/tejask28)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/tejask28)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/tejask28)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/tejask28)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/tejask28)
@@ -51,15 +55,9 @@
   <a href="https://github.com/tejask28">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejask28&theme=transparent" />
   </a>
-  <a href="https://github.com/tejask28">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejask28&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/tejask28">
-    <img src="https://komarev.com/ghpvc/?username=tejask28&color=blue&style=flat)" />
-  </a>
-</p>
+
 
