@@ -39,10 +39,8 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/tejask28)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejask28&show_icons=true&locale=en&layout=compact" alt="tejask28" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejask28&" alt="tejask28" /></p>
 
 <details>
 <p align="center">
