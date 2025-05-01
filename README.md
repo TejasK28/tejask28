@@ -2,7 +2,7 @@
 
 <p align="center">
   Junior Automation Developer @ Veolia | Ex MLE @ Artcii<br />
-  CS & DS Student @ Rutgers University
+  CS & DS Senior @ Rutgers University |  Expected Graduation December 2025
 </p>
 
 <p align="center">
