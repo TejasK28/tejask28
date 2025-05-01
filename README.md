@@ -10,12 +10,6 @@
   <a href="https://tejask28.github.io">Portfolio</a>
 </p>
 
-<p align="center">
-  <b>Tech Stack:</b> JavaScript | Python | Java | Automation | Machine Learning
-</p>
-
-<p align="center"><em>"Automating the future, one script at a time."</em></p>
-
 <details>
 <p align="center">
   <a href="https://github.com/tejask28">
