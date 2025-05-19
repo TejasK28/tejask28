@@ -21,5 +21,11 @@
   <a href="https://github.com/tejask28">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejask28&theme=transparent" />
   </a>
+
+  <a href="https://www.kaggle.com/tejaska">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejask28&theme=transparent" />
+  </a>
+
+  
 </p>
 </details>
