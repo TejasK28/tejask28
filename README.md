@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tejaskandri">LinkedIn</a> • 
-  <a href="https://tejask28.github.io">Portfolio</a>
+  <a href="https://tejask28.github.io">Portfolio</a> • 
   <a href="https://www.kaggle.com/tejaska">Kaggle</a>
 </p>
 
