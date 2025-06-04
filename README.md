@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 
 <p align="center">
-  Junior Automation Developer @ Veolia | Ex MLE @ Artcii<br />
+  Junior RPA Developer @ Veolia | Ex MLE @ Artcii<br />
   Senior CS & DS Student @ Rutgers University |  Expected Graduation December 2025
 </p>
 
