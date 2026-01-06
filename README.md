@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 
 <p align="center">
-  MLE Co-Op @ RWJ Medical School | Junior RPA Developer @ Veolia | Ex MLE @ Artcii<br />
-  Senior CS & DS Student @ Rutgers University |  Expected Graduation December 2025
+  Junior Robotic Process Automation (RPA) Developer @ Veolia | Ex MLE @ Artcii<br />
+  CS & DS Graduate @ Rutgers University |  Janurary 2026
 </p>
 
 <p align="center">
