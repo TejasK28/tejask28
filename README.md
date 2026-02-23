@@ -2,7 +2,7 @@
 
 <p align="center">
   Automation Developer Intern @ Veolia | Ex MLE @ RWJ <br />
-  CS & DS Grduate from Rutgers University
+  Rutgers Computer Science & Data Science | January 2026
 </p>
 
 <p align="center">
