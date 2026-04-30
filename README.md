@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 
 <p align="center">
-  Automation Developer Intern @ Veolia | Ex MLE @ RWJ <br />
+  AI & Automation Developer Intern @ Veolia | Ex DE & MLE <br />
   Rutgers Computer Science & Data Science | January 2026
 </p>
 
