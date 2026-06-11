@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 
 <p align="center">
-  Technical Analyst I @ Fiserv | Prev AI & Automation Dev @ Veolia | Ex DE & MLE <br />
+  SDE I @ Veolia | Ex DE & MLE <br />
   Rutgers Computer Science & Data Science | January 2026
 </p>
 
